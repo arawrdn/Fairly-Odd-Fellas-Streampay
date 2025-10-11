@@ -7,7 +7,7 @@ Fairly Odd Fellas – StreamPay is a Web3 platform for streaming token payments 
 ## 🚀 Features
 - Wallet authentication via Reown AppKit
 - Streaming token payments to Fellas
-- Multi-chain support via Wagmi (Ethereum, Polygon, Base)
+- Multi-chain support via Wagmi (Ethereum, Polygon, Base & Optimism)
 - Gamified dashboard: progress bars, levels, NFT rewards
 - Interactive UI for managing subscriptions and streaming
 
